@@ -20,5 +20,5 @@ The New York City Taxi & Limousine Commission (TLC) has provided a dataset of tr
 ## Details of files given
 - Data Ingestion and Processing - Assignment.txt : Text file of the commands used in Hive
 - yellow_tripdata_2017.zip : Data worked on
-- data-dictionary.csv : Data Dictionary
+- data_dictionary_trip_records_yellow_taxi.pdf : Data Dictionary
 
